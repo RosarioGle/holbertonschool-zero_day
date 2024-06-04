@@ -1,1 +1,2 @@
-echo "git pull origin main"
+#!/bin/bash
+echo "hello"
